@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.learn.own.reactiveprogram.fluxandmonoplayground.VirtualTimeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-23T00:15:30" hostname="C02TT0H0HTD8" time="0.19">
+  <properties/>
+  <testcase name="testingWithVirtualTime()" classname="com.learn.own.reactiveprogram.fluxandmonoplayground.VirtualTimeTest" time="0.19"/>
+  <system-out><![CDATA[00:15:30.291 [Test worker] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+00:15:30.411 [Test worker] INFO reactor.Flux.Take.1 - onSubscribe(FluxTake.TakeSubscriber)
+00:15:30.414 [Test worker] INFO reactor.Flux.Take.1 - request(unbounded)
+00:15:30.416 [Test worker] INFO reactor.Flux.Take.1 - onNext(0)
+00:15:30.416 [Test worker] INFO reactor.Flux.Take.1 - onNext(1)
+00:15:30.416 [Test worker] INFO reactor.Flux.Take.1 - onNext(2)
+00:15:30.417 [Test worker] INFO reactor.Flux.Take.1 - onComplete()
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

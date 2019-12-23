@@ -1,0 +1,7 @@
+d00:15:30.291 [Test worker] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+[00:15:30.411 [Test worker] INFO reactor.Flux.Take.1 - onSubscribe(FluxTake.TakeSubscriber)
+I00:15:30.414 [Test worker] INFO reactor.Flux.Take.1 - request(unbounded)
+@00:15:30.416 [Test worker] INFO reactor.Flux.Take.1 - onNext(0)
+@00:15:30.416 [Test worker] INFO reactor.Flux.Take.1 - onNext(1)
+@00:15:30.416 [Test worker] INFO reactor.Flux.Take.1 - onNext(2)
+C00:15:30.417 [Test worker] INFO reactor.Flux.Take.1 - onComplete()
